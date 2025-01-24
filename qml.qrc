@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/CES_logo.png</file>
+        <file>images/gray-turn.png</file>
+        <file>images/green-turn.png</file>
+        <file>images/ReCar_Background.png</file>
+        <file>images/splash.png</file>
+        <file>images/uperLed_0.png</file>
+        <file>images/uperLed_1.png</file>
+        <file>images/uperLed_2.png</file>
+        <file>images/uperLed_3.png</file>
+        <file>images/uperLed_4.png</file>
+        <file>images/uperLed_5.png</file>
+        <file>images/uperLed_6.png</file>
+        <file>images/uperLed_7.png</file>
+        <file>images/uperLed_8.png</file>
+        <file>images/uperLed_9.png</file>
+        <file>TurnIndication.qml</file>
+        <file>fonts/digital-7.ttf</file>
+        <file>UpperBarLed.qml</file>
+        <file>images/Customer_logo.png</file>
+    </qresource>
+</RCC>
