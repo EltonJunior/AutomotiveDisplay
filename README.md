@@ -595,7 +595,7 @@ pi@raspberrypi:~/Project/QtCreator/AutomotiveDisplay $ sudo reboot
 
 Well done, The application was started!!!
 
-<img src="./AutomotiveDisplay/images/Automotive_Display_look.png" alt="logo" />
+<img src="./images/Automotive_Display_look.png" alt="logo" />
 
 ## Reference
 
